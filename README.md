@@ -11,7 +11,7 @@ Task-Trackr is a lightweight and user-friendly todo list application built with 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/easytasks.git
+   git clone https://github.com/SamarthWalse10/Task-Trackr.git
 <br/>
 
 ![TaskTrakr](https://github.com/SamarthWalse10/Task-Trackr/assets/125689593/723a2aef-adbe-4bd6-ac2d-d711b367f30b)
