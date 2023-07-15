@@ -1,0 +1,127 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.head {
+    /* border: 2px solid gray; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headin {
+    /* border: 2px solid gray; */
+    width: 70%;
+    padding: 15px;
+}
+
+#mainHeading {
+    margin: 15px auto;
+    font-size: 19px;
+    font-family: ubuntu;
+}
+
+.subHeading {
+    color: rgb(45, 45, 45);
+    font-size: 17px;
+}
+
+.yourNotes {
+    color: rgb(45, 45, 45);
+    padding: 8px;
+    font-family: ubuntu;
+}
+
+.container {
+    border: 2px solid gray;
+    margin: 20px 0px;
+    padding: 18px;
+    border-radius: 3px;
+}
+
+.input {
+    padding: 5px 0px;
+}
+
+#inputTextarea {
+    padding: 2px;
+    width: 99%;
+    height: 100px;
+    border-radius: 3px;
+    resize: vertical;
+    font-family: ubuntu;
+}
+
+#addContentbtn {
+    background-color: #1a73e8;
+    border: 2px solid #1a73e8;
+    border-radius: 3px;
+    color: white;
+    padding: 5px;
+}
+
+#addContentbtn:hover {
+    background-color: #2e7de3;
+    cursor: pointer;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+.notesCollection {
+    /* border: 2px solid gray; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.notesCollectionin {
+    /* border: 2px solid gray; */
+    width: 72%;
+}
+
+.noteOut {
+    /* border: 2px solid gray; */
+    padding: 12px;
+}
+
+.note {
+    display: inline-flex;
+    flex-direction: column;
+    border: 2px solid gray;
+    border-radius: 3px;
+    width: 286px;
+    margin: 20px;
+}
+
+.noteHeading {
+    padding: 3px;
+}
+
+.paraHeading {
+    padding: 3px;
+    color: rgb(65, 65, 65);
+    font-family: ubuntu;
+}
+
+.deletebtn {
+    background-color: #1a73e8;
+    border: 2px solid #1a73e8;
+    border-radius: 3px;
+    color: white;
+    margin-top: 7px;
+    padding: 4px;
+}
+
+.deletebtn:hover {
+    background-color: #2e7de3;
+    cursor: pointer;
+}
+
+.noNotes {
+    font-size: 17px;
+    font-family: ubuntu;
+    color: red;
+}
